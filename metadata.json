@@ -1,0 +1,6 @@
+{
+  "name": "Aastha Clinic Management System",
+  "description": "Complete single-doctor clinic management web app for Aastha Clinic with patient records, appointments, consultations, billing, pharmacy inventory, prescriptions, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
